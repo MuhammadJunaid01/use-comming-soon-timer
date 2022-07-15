@@ -1,0 +1,23 @@
+{
+  "name": "use-comming-soon-timer",
+  "version": "1.0.0",
+  "description": "A simple comming soon timer",
+  "main": "UseTimer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadJunaid01/use-comming-soon-timer.git"
+  },
+  "author": "Muhammad Junaid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MuhammadJunaid01/use-comming-soon-timer/issues"
+  },
+  "homepage": "https://github.com/MuhammadJunaid01/use-comming-soon-timer#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
